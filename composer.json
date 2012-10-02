@@ -1,0 +1,8 @@
+{
+    "name": "zf2-skeleton",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*",
+        "doctrine/common": "2.*"
+    }
+}
