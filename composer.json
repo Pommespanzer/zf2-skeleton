@@ -1,5 +1,10 @@
 {
     "name": "zf2-skeleton",
+    "autoload": {
+        "psr-0": {
+            "Application": "module/Application/src"
+        }
+    },
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
