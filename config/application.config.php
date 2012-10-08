@@ -5,7 +5,7 @@ return array(
         'Application',
     ),
     'module_listener_options' => array(
-        'config_cache_enabled' => true,
+        'config_cache_enabled' => false,
         'cache_dir'            => 'data/cache',
         'config_glob_paths'    => array(
             'config/autoload/{,*.}{global,local}.php',
